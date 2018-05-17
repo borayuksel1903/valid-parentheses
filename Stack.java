@@ -155,7 +155,7 @@ public class Stack{
 			if(result)
 				System.out.println("Valid Parentheses!");
 			else
-				System.out.println("Invalid Parentheses. Learn how parentheses work. FUCKING CUNTFLAP.");
+				System.out.println("Invalid Parentheses. Learn how parentheses work.");
 		}
 	}
 	
